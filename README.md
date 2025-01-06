@@ -79,7 +79,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For any questions or support, feel free to reach out via [email](mailto:your.email@example.com).
-```
-
-You can copy this into your `README.md` file, and it will render as a well-structured document in any Markdown editor.
+For any questions or support, feel free to reach out via [tayadearyan98@gmail.com](mailto:tayadearyan98@gmail.com).
